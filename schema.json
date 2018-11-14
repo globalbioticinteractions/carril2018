@@ -1,0 +1,57 @@
+{
+  "columns": [
+    {
+      "name": "FID",
+      "titles": "FID",
+      "datatype": "string"
+    },
+    {
+      "name": "Number_of",
+      "titles": "Number_of",
+      "datatype": "string"
+    },
+    {
+      "name": "sourceTaxonFamily",
+      "titles": "Bee_Family",
+      "datatype": "string"
+    },
+    {
+      "name": "sourceTaxonGenus",
+      "titles": "Bee_Genus",
+      "datatype": "string"
+    },
+    {
+      "name": "Subgenus",
+      "titles": "Subgenus",
+      "datatype": "string"
+    },
+    {
+      "name": "sourceTaxonSpecificEpithet",
+      "titles": "Species",
+      "datatype": "string"
+    },
+    {
+      "name": "Subspecies",
+      "titles": "Subspecies",
+      "datatype": "string"
+    },
+    {
+      "name": "localityName",
+      "titles": "Location_D",
+      "datatype": "string"
+    },
+    {
+      "name": "http://rs.tdwg.org/dwc/terms/eventDate",
+      "titles": "Date",
+      "datatype": {
+        "base": "date",
+        "format": "dd-MMM-YY"
+      }
+    },
+    {
+      "name": "targetTaxonName",
+      "titles": "Floral_Hos",
+      "datatype": "string"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "@context": ["http://www.w3.org/ns/csvw", {"@language": "en"}],
+  "rdfs:comment": ["inspired by https://www.w3.org/TR/2015/REC-tabular-data-model-20151217/"],
+  "tables": [
+    { "url": "https://dfzljdn9uc3pi.cloudfront.net/2018/5867/1/Bees_in_GSENM_Data_Final_May_23_2018.xlsx",
+      "referenceDoi": "10.7717/peerj.5867/supp-2",
+      "dcterms:bibliographicCitation": "Carril OM, Griswold T, Haefner J, Wilson JS. (2018) Wild bees of Grand Staircase-Escalante National Monument: richness, abundance, and spatio-temporal beta-diversity. PeerJ 6:e5867 https://doi.org/10.7717/peerj.5867",
+      "tableSchema": "schema.json",
+      "delimiter": "\t",
+      "headerRowCount": 1,
+      "localityId": "GEONAMES:5539795",
+      "interactionTypeId": "http://purl.obolibrary.org/obo/RO_0002454",
+      "interactionTypeName": "hasHost"
+    }
+  ],
+  "resources": {
+    "https://dfzljdn9uc3pi.cloudfront.net/2018/5867/1/Bees_in_GSENM_Data_Final_May_23_2018.xlsx": "Bees_in_GSENM_Data_Final_May_23_2018.tsv"
+  }
+
+}
