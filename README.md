@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/globalbioticinteractions/carril2018.svg)](https://travis-ci.org/globalbioticinteractions/carril2018) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/carril2018)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/carril2018) 
+[![Build Status](https://travis-ci.com/globalbioticinteractions/carril2018.svg)](https://travis-ci.com/globalbioticinteractions/carril2018) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/carril2018)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/carril2018) 
 
 Data from
 
